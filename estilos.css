@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1100px;
+    margin: 0px auto;
+}
+.clearfix{
+    clear: both;
+}
+.logo{
+    display: flex;
+    width: 100%;
+
+    align-items: center;
+}
+.logo img{
+    height: 50px;
+    margin-right: 5px;
+}
+.dates{
+    margin: 0px auto;
+    width: 1100px;
+
+}
+.datos{
+    float: left;
+    width: 80%;
+}
+header{
+    display: flex;
+    background-color: coral;
+    height: 51px;
+    width: 100%;
+    margin: 0px;
+    justify-content: space-between;
+}
+
+.yo img{
+    height:250px;
+    padding-top: 50px;
+    padding-right: 00px;
+}
+footer{
+    padding-top: 215px;
+}
